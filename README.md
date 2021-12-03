@@ -2,7 +2,7 @@
 
 This is my attempt att Advent of Code 2021 in Python
 
-# Score
+## Score
 
 <pre>
 Part 1                           Part 2
