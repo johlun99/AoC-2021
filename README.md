@@ -1,6 +1,6 @@
 # AoC-2021
 
-This is my attempt att Advent of Code 2021 in Python
+This is my attempt att Advent of Code 2021 in Python3
 
 ## Score
 
