@@ -1,6 +1,3 @@
-data = open("input.in", "r")
-lines = [line.strip() for line in data.readlines()]
-
 with open("input.in") as f:
     drawn = [int(x) for x in f.readline().strip('\n').split(',')]
     cards = []
