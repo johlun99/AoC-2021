@@ -13,10 +13,9 @@ def countFish(fish, days):
         c[8] = c[0]; temp[7] += c[0]
         for i,x in list(enumerate(temp))[1:]: c[i - 1] = x
 
-    sum = c
-    c = sum.values()
+    sum = c.values()
     value = 0
-    for i in c:
+    for i in sum:
         value += i
 
     return value
